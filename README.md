@@ -1,6 +1,6 @@
 # Inventory-Management-TDD-BDD
 
-[![tests]](https://github.com/dotnet/samples/actions/workflows/build-validation.yml)
+[[![tests]](https://github.com/dotnet/samples/actions/workflows/build-validation.yml)](https://raw.githubusercontent.com/dwyl/repo-badges/master/highresPNGs/build-passing.png)
 
 ## Building a sample
 
