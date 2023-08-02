@@ -1,0 +1,14 @@
+{
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on",
+        "other": "on"
+    },
+    "window.zoomLevel": 1,
+    "gherkin-autocomplete.featuresPath": "./tests/Inventory.Tests.E2E/Features",
+    "cucumberautocomplete.steps": [
+        "./tests/Inventory.Tests.E2E/Steps/*.cs",
+    ],
+    "cucumberautocomplete.syncfeatures": "./tests/Inventory.Tests.E2E/Features/*.feature",
+    "dotnet.defaultSolution": "InventoryManagement.sln",
+} 
